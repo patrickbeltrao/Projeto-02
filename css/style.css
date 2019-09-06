@@ -32,7 +32,9 @@
     text-shadow: 3px 2px .5px white;
     border-bottom: 3px solid black;
     padding: 5px;  
+
 }
+
 
 .div-title h1:hover{
     animation: led 2s ease-in-out;
