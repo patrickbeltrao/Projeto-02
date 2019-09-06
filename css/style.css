@@ -19,9 +19,11 @@
     
 }
 
+/** DIV-TITLE  **/
+
 .div-title{
     position: absolute;
-    top: 70%;
+    top: 60%;
     left: 25%;
 }
 
@@ -52,6 +54,26 @@
         border-bottom: 3px solid white;
     }
 }
+
+
+.div-title ul li{
+    list-style-type: none;
+    float: left;
+    margin-left: 30px;
+    transform: translateX(70px);
+    cursor: pointer;
+    
+}
+
+.div-title ul li a{
+    display: inline-block;
+    font-size: 40px;
+    padding: 20px;
+    margin-right: 10px;
+
+}
+
+
 
 
 /*    NAV  **/
